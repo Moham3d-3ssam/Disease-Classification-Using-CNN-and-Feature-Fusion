@@ -90,20 +90,19 @@ Before running this application, ensure you have:
 Disease-Classification-Using-CNN-and-Feature-Fusion/
 ├── Web_App.py                  # Main Streamlit application
 ├── metadata.csv                # Training data metadata
-├── cnn_tf_model.keras         # CNN TensorFlow model
-├── feature_extractor.keras    # Feature extraction model
-├── final_best_model.keras     # Best performing model
-├── final_model.keras          # Final trained model
-├── final_tf_model.keras       # Final TensorFlow model
-├── ensemble_clf.pki           # Ensemble classifier (pickle)
-├── xgb_clf.pki               # XGBoost classifier
-├── lgb_clf.pki               # LightGBM classifier
-├── rf_clf.pki                # Random Forest classifier
-├── sc.pkl                    # StandardScaler for feature normalization
-├── orderLabels.pkl           # Label encoding mapping
-├── x_test_ann.pkl            # Test data for ANN
-└── README.md                 # Project documentation
+├── feature_extractor.keras     # Feature extraction model
+├── final_best_model.keras      # Best performing model
+├── final_model.keras           # Final trained model
+├── final_tf_model.keras        # Final TensorFlow model
+├── lgb_clf.pki                 # LightGBM classifier (pickle file)
+├── rf_clf.pki                  # Random Forest classifier (pickle file)
+├── sc.pkl                      # StandardScaler for feature normalization
+├── orderLabels.pkl             # Label encoding mapping
+├── x_test_ann.pkl              # Test data for ANN
+└── README.md                   # Project documentation
 ```
+
+**Note**: Some model files referenced in `Web_App.py` (ensemble_clf.pki, xgb_clf.pki, cnn_tf_model.keras) may need to be generated during training or obtained separately.
 
 ## 🔬 Model Architecture
 
@@ -179,7 +178,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Please check the repository for license information.
 
 ## 👥 Authors
 
