@@ -29,7 +29,7 @@ The system can classify six types of skin conditions:
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python**
 - **TensorFlow/Keras**: Deep learning framework for CNN models
 - **Streamlit**: Web application framework
 - **Scikit-learn**: Machine learning utilities and preprocessing
