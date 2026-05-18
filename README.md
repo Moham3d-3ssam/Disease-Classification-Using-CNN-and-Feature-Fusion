@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20270366.svg)](https://doi.org/10.5281/zenodo.20270366)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20270366.svg)](https://doi.org/10.5281/zenodo.20270366)
 
 # Disease Classification Using CNN and Feature Fusion
 
