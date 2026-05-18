@@ -1,9 +1,8 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20270366.svg)](https://doi.org/10.5281/zenodo.20270366)
+
 # Disease Classification Using CNN and Feature Fusion
 
 A comprehensive machine learning project for classifying skin lesions using Convolutional Neural Networks (CNN) combined with metadata feature fusion. This system provides an interactive web application for medical professionals to diagnose skin conditions by uploading images and answering relevant medical questions.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20270366.svg)](https://doi.org/10.5281/zenodo.20270366)
-...
 
 ## 🎯 Project Overview
 
